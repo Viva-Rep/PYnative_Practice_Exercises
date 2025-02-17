@@ -1,2 +1,2 @@
-# PYnative_Practice_Basics
-Jupyter Notebook with the list of solutions to the basic exercises mentioned on PYnative
+# PYnative_Practice_Exercises
+Jupyter Notebooks with the list of solutions to the exercises mentioned on PYnative
